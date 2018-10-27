@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cabbage _ Google Search</folder>
+	<filename>pic_016.jpg</filename>
+	<path>/home/bat/cabbage _ Google Search/pic_016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>26</ymin>
+			<xmax>132</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cabbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>19</ymin>
+			<xmax>211</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>
